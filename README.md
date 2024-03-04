@@ -6,5 +6,5 @@ Web3 e Blockchain Developer :)
 
 **Participando:**
 - [Hackathon Nearx blockchain Optimism](https://nearx.com.br/bootcamp) - 3 weeks Bootcamp + Hackathon
-- [Speedrun Ethereum](speedrunethereum.com) - 2 weeks self=challenge
+- [Speedrun Ethereum](speedrunethereum.com) - 2 weeks self-challenge
 
