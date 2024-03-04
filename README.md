@@ -1,6 +1,7 @@
 # Opa, Mundo! 👋
 
-Entusiasta da área cripto desde 2018, dev desde 2023. Sou apaixonado por tecnologia e música eletrônica.  
+Entusiasta da área cripto desde 2018. Sou apaixonado por tecnologia e música eletrônica.    
+Empreendedor na área de moda e designer nas horas vagas.
 
 Web3 e Blockchain Developer :)
 
