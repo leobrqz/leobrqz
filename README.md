@@ -1,6 +1,6 @@
 # Opa, Mundo! 👋
-
-Entusiasta da área cripto desde 2018. Buscando inovações para o público geral.    
+Cursando Ciencias da computação.
+Entusiasta da área de desenvolvimento e cripto desde 2018. Buscando inovações e oportunidades de aprendizado
 
 Smart Contract Enginner  
 
