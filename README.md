@@ -1,5 +1,5 @@
 # Opa, Mundo! 👋
-Cursando Ciencias da computação.
+Cursando Ciencias da computação.  
 Entusiasta da área de desenvolvimento e cripto desde 2018. Buscando inovações e oportunidades de aprendizado
 
 Smart Contract Enginner  
