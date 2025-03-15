@@ -1,11 +1,13 @@
 # Opa, Mundo! 👋
-Cursando Ciencias da computação.  
-Entusiasta da área de desenvolvimento e cripto desde 2018. Buscando inovações e oportunidades de aprendizado
+Cursando Ciencias da Computação.  
+Entusiasta da área de desenvolvimento e tecnologia!
 
-Smart Contract Enginner  
+Python Developer
 
-<img src="https://img.icons8.com/color/48/solidity.png" alt="Solidity Icon" width="40" height="40"> <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="Rust Icon" width="40" height="40">
+<img src="https://img.icons8.com/color/48/solidity.png" alt="Solidity Icon" width="40" height="40"> 
 
+datacamp: https://www.datacamp.com/portfolio/contatopatobrqz
+linkedin: https://www.linkedin.com/in/leonardobri/
 
 **Achievements**  
 <img src="https://developers.stellar.org/img/stellar-logo.svg" alt="Stellar Icon" width="80" height="40">   <img src="https://www.optimism.io/optimism.svg" alt="Optimism Icon" width="80" height="40">
