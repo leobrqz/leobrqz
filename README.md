@@ -8,7 +8,7 @@ Entusiasta da área de desenvolvimento e tecnologia!
 
 
 [![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/contatopatobrqz)   
-- [Implementing AI Solutions in Business](https://www.datacamp.com/completed/statement-of-accomplishment/course/cc1f34898d437d03bcf3704a4ba0a90c59f6016b)
+- [AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/5bee6c58abd3fc958c2886301740ede75cf60638) and [Business Implementation](https://www.datacamp.com/completed/statement-of-accomplishment/course/cc1f34898d437d03bcf3704a4ba0a90c59f6016b)
 - [Working with the OpenAI API](https://www.datacamp.com/completed/statement-of-accomplishment/course/37492a63b431ebe9fc0c59a18148c2a1e5243a12)  
 - [Intermediate Python for Developers](https://www.datacamp.com/completed/statement-of-accomplishment/course/5c5b03d2b73f4beda31036079725cc0a0566d90c)  
 - [Introduction to APIs in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d62cbec83f57266c05892ff25440fc4a1f1355d0)  
