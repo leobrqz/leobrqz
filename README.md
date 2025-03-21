@@ -12,8 +12,7 @@ Entusiasta da área de desenvolvimento e tecnologia!
 [![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/contatopatobrqz)   
 - 🤖 [AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/5bee6c58abd3fc958c2886301740ede75cf60638) and [Business Implementation](https://www.datacamp.com/completed/statement-of-accomplishment/course/cc1f34898d437d03bcf3704a4ba0a90c59f6016b)
 - 🐍 [Working with the OpenAI API](https://www.datacamp.com/completed/statement-of-accomplishment/course/37492a63b431ebe9fc0c59a18148c2a1e5243a12)
-- 🐍 [Introduction to APIs](https://www.datacamp.com/completed/statement-of-accomplishment/course/d62cbec83f57266c05892ff25440fc4a1f1355d0) & [FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/3e582b152917c6396fec24f3464694b904fab517)
-- 🐍 [Intermediate Python for Developers](https://www.datacamp.com/completed/statement-of-accomplishment/course/5c5b03d2b73f4beda31036079725cc0a0566d90c)  
+- 🐍 [Building APIs and FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/track/c64b264795e2358a8c67f2f88ac2ea88f47f6a02)  
 - ☕ [Introduction to Java](https://www.datacamp.com/completed/statement-of-accomplishment/course/a942341f9f5a3f24b10861e7fa59dd62f1828b81) & [Object-Oriented Programming](https://www.datacamp.com/completed/statement-of-accomplishment/course/247af240e3597210bbf7199f67d043fac16ae44e)
 
 
