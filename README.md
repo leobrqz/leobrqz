@@ -9,7 +9,7 @@ Entusiasta da área de desenvolvimento e tecnologia!
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![IA](https://img.shields.io/badge/-IA-FF6F61?style=flat-square&logo=microchip&logoColor=ffffff)
 
-[![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/contatopatobrqz)   
+[![Datacamp](https://img.shields.io/badge/Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/leonardobri)   
 - 🤖 [AI Ethics](https://www.datacamp.com/completed/statement-of-accomplishment/course/5bee6c58abd3fc958c2886301740ede75cf60638) and [Business Implementation](https://www.datacamp.com/completed/statement-of-accomplishment/course/cc1f34898d437d03bcf3704a4ba0a90c59f6016b)
 - 🐍 [Working with the OpenAI API](https://www.datacamp.com/completed/statement-of-accomplishment/course/37492a63b431ebe9fc0c59a18148c2a1e5243a12)
 - 🐍 [Building APIs and FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/track/c64b264795e2358a8c67f2f88ac2ea88f47f6a02)
