@@ -7,6 +7,11 @@ Sometimes I drink too much coffee but that's okay :D
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge)](https://leobrqz.github.io) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardobri/) 
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/leonardobri)
+
+---
+
+[![Gists](https://img.shields.io/badge/GitHub-Gists-181717?logo=github&logoColor=white)](https://gist.github.com/leobrqz)
+
 ---
 
 ### Skills
