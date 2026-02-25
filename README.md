@@ -1,17 +1,17 @@
-# Opa, Mundo! 👋
+# Hello there, world!
+
+I'm a Python developer from Brazil.  
+Right now I'm studying ML/DL and just finished migrating my portfolio to Next.js + Mantine! 
 
 Sometimes I drink too much coffee but that's okay :D
 
+My profile pic is Snarf from Thundercats if you're wondering
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge)](https://leobrqz.github.io) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardobri/) 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge)](https://leonardobriquezi.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardobri/)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/leonardobri)
-
----
-
-[![Gists](https://img.shields.io/badge/GitHub-Gists-181717?logo=github&logoColor=white)](https://gist.github.com/leobrqz)
-
 ---
 
 ### Skills
@@ -44,6 +44,8 @@ Sometimes I drink too much coffee but that's okay :D
 **Tools & Environment**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
 
