@@ -1,25 +1,16 @@
 # Hello there, world!
 
-<table border="0">
-  <tr>
-    <td valign="top" width="55%">
-
 ## Leonardo Briquezi
 
-Fullstack developer from Brazil and I'm really passionate about everything I do.    
+Fullstack developer from Brazil and I'm really passionate about everything I do.
 
 I'm currently studying machine learning, C and developing my first public SaaS! And I just finished migrating my portfolio to Next.js + Mantine.
 
+If you're a recruiter, my favorite animal is orangutans because they're curious and learn by carefully observing their environment. 🦧
 
-
-
-If you're a recruiter, my favorite animal is orangutans because they're curious and learn by carefully observing their environment. 
-
-Looking for job opportunities as an intern or junior developer, I'm sure I can surprise you with my dedication, don't be afraid to reach out! 
-<br>
+Looking for job opportunities as an intern or junior developer, I'm sure I can surprise you with my dedication, don't be afraid to reach out!
 
 ### Get in touch
-
 
 <a href="https://www.linkedin.com/in/leonardobri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
@@ -28,18 +19,6 @@ Looking for job opportunities as an intern or junior developer, I'm sure I can s
 <a href="mailto:leonardobriquezi01@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 
 My profile pic is Snarf from Thundercats if you're wondering :)
-
-  </td>
-  <td valign="top" width="45%">
-
-
-
-<img src="./profile/stats.svg" width="100%" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" width="100%" alt="Top Languages" />
-
-  </td>
-  </tr>
-</table>
 
 ---
 
