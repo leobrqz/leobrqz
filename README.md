@@ -1,73 +1,135 @@
 # Hello there, world!
 
-I'm a Python developer from Brazil.  
-Right now I'm studying ML/DL and just finished migrating my portfolio to Next.js + Mantine! 
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-Sometimes I drink too much coffee but that's okay :D
+## Leonardo Briquezi
 
-My profile pic is Snarf from Thundercats if you're wondering
+Fullstack developer from Brazil and I'm really passionate about everything I do.    
 
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge)](https://leonardobriquezi.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardobri/)
-[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/leonardobri)
----
-
-### Skills
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-**Frameworks & Backend**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-
-**Data & AI**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Environment**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+I'm currently studying machine learning, C and developing my first public SaaS! And I just finished migrating my portfolio to Next.js + Mantine.
 
 
 
-## Projects
 
-Check out my recent project <3
+If you're a recruiter, my favorite animal is orangutans because they're curious and learn by carefully observing their environment. 
 
-[![Repo](https://img.shields.io/badge/Repo-AutoPot--DR-181717?style=for-the-badge&logo=github)](https://github.com/leobrqz/AutoPot-DR)  
+Looking for job opportunities as an intern or junior developer, I'm sure I can surprise you with my dedication, don't be afraid to reach out! 
+<br>
 
-[![Repo](https://img.shields.io/badge/Repo-ShScriptHub-181717?style=for-the-badge&logo=github)](https://github.com/leobrqz/ShScriptHub)  
+### Get in touch
+
+
+<a href="https://www.linkedin.com/in/leonardobri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://leonardobriquezi.me"><img src="https://img.shields.io/badge/-leonardobriquezi.me-4285F4?style=flat&logo=Google-Chrome&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:leonardobriquezi01@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+
+My profile pic is Snarf from Thundercats if you're wondering :)
+
+  </td>
+  <td valign="top" width="45%">
 
 
 
+<img src="./profile/stats.svg" width="100%" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" width="100%" alt="Top Languages" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-### Achievements
+### Stack
 
-- **DataCamp:**  
-[Python Programming](https://www.datacamp.com/completed/statement-of-accomplishment/track/855c0fd421f92fb8c08ea517266d5cde97bb8323) & [Associate Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/6054dcb4213e5a02bde29b4dd0fb81141fba479d)  
-[AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0024854341667)  
-[FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/track/c64b264795e2358a8c67f2f88ac2ea88f47f6a02) & [OpenAI API](https://www.datacamp.com/completed/statement-of-accomplishment/course/37492a63b431ebe9fc0c59a18148c2a1e5243a12)  
-[Java & OOP](https://www.datacamp.com/completed/statement-of-accomplishment/course/a942341f9f5a3f24b10861e7fa59dd62f1828b81)  
-- **Bootcamp NearX Optimism** - [Certificate](https://www.linkedin.com/posts/leonardobri_primeiro-de-muitos-conclu%C3%ADdo-nearx-innovation-activity-7176268801305419776-ffCj?utm_source=share&utm_medium=member_desktop)
-- **Speedrun Ethereum** - [BuidlGuidl profile](https://app.buidlguidl.com/builders/0xC4de020Cfb94D5e7Da5536551da6cfE01Dce33Ec)
+<table>
+  <tr>
+    <td valign="top"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />&nbsp;
+      <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;
+      <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" />&nbsp;
+      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" />&nbsp;
+      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6" />&nbsp;
+      <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />&nbsp;
+      <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs" />&nbsp;
+      <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />&nbsp;
+      <img src="https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Data & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn" />&nbsp;
+      <img src="https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy" />&nbsp;
+      <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" />&nbsp;
+      <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib" />&nbsp;
+      <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />&nbsp;
+      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />&nbsp;
+      <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />&nbsp;
+      <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws" />&nbsp;
+      <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### Projects
+
+| Project | <div align="center">Description</div> |
+|---|---|
+| [AutoPot-DR](https://github.com/leobrqz/AutoPot-DR) | Auto-potion tool for Dwarven Realms, built with a PyQt5 overlay. Reads memory using Pymem with pointer chain resolution.  |
+| [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run all your .sh scripts from one place. Scans project folders, detects envs, independent terminal per script.  |
+
+---
+
+<details>
+<summary><b>Certifications & Achievements</b></summary>
+<br>
+
+<a href="https://www.datacamp.com/portfolio/leonardobri"><img src="https://img.shields.io/badge/-DataCamp%20Portfolio-03EF62?style=flat&logo=datacamp&logoColor=white" /></a>
+
+
+**DataCamp**
+
+| Course | |
+|---|---|
+| Python Programming | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/855c0fd421f92fb8c08ea517266d5cde97bb8323) |
+| Associate Python Developer | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/6054dcb4213e5a02bde29b4dd0fb81141fba479d) |
+| AI Fundamentals | [Verification](https://www.datacamp.com/skill-verification/AIF0024854341667) |
+| FastAPI | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/c64b264795e2358a8c67f2f88ac2ea88f47f6a02) |
+| OpenAI API | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/37492a63b431ebe9fc0c59a18148c2a1e5243a12) |
+| Java & OOP | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/a942341f9f5a3f24b10861e7fa59dd62f1828b81) |
+
+**Blockchain**
+
+| Program | |
+|---|---|
+| Bootcamp NearX Optimism | [Certificate](https://www.linkedin.com/posts/leonardobri_primeiro-de-muitos-conclu%C3%ADdo-nearx-innovation-activity-7176268801305419776-ffCj?utm_source=share&utm_medium=member_desktop) |
+| Speedrun Ethereum | [BuidlGuidl Profile](https://speedrunethereum.com/builders/0xC4de020Cfb94D5e7Da5536551da6cfE01Dce33Ec) |
+
+</details>
