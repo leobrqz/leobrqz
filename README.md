@@ -1,6 +1,6 @@
 # Hello there, world!
 
-<table>
+<table border="0">
   <tr>
     <td valign="top" width="55%">
 
