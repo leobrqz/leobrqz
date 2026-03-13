@@ -1,6 +1,5 @@
 # Hello there, world!
 
-## Leonardo Briquezi
 
 Fullstack developer from Brazil and I'm really passionate about everything I do.
 
