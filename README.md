@@ -42,7 +42,6 @@ My profile pic is Snarf from Thundercats if you're wondering :)
       <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />&nbsp;
       <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs" />&nbsp;
       <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />&nbsp;
-      <img src="https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy" />
     </td>
   </tr>
   <tr>
@@ -60,6 +59,7 @@ My profile pic is Snarf from Thundercats if you're wondering :)
     <td>
       <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />&nbsp;
       <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
+      <img src="https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy" />
     </td>
   </tr>
   <tr>
