@@ -81,8 +81,8 @@ My profile pic is Snarf from Thundercats if you're wondering :)
 | Project | <div align="center">Description</div> |
 |---|---|
 | [JobAppliesTracker](https://github.com/leobrqz/JobAppliesTracker) | Track applications across platforms, manage companies, schedule interviews and more. See where your pipeline stands all in one place! |
+| [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run all your .sh scripts from one place. Scans project folders, detects envs, schedule runs and follow logs. Independent terminal per script.   |
 | [AutoPot-DR](https://github.com/leobrqz/AutoPot-DR) | Auto-potion tool for Dwarven Realms, built with a PyQt5 overlay. Reads memory using Pymem with pointer chain resolution.  |
-| [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run all your .sh scripts from one place. Scans project folders, detects envs, independent terminal per script.  |
 
 ---
 
