@@ -82,6 +82,7 @@ My profile pic is Snarf from Thundercats if you're wondering :)
 |---|---|
 | [JobAppliesTracker](https://github.com/leobrqz/JobAppliesTracker) | Track applications across platforms, manage companies, schedule interviews and more. See where your pipeline stands all in one place! |
 | [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run all your .sh scripts from one place. Scans project folders, detects envs, schedule runs and follow logs. Independent terminal per script.   |
+| [TrackLyrics-ytdlp](https://github.com/leobrqz/TrackLyrics-ytdlp) | Download tracks from YouTube with yt-dlp, scrape lyrics from letras.mus.br using Playwright, organize and play in a PySide6 app. All local and automated. |
 | [AutoPot-DR](https://github.com/leobrqz/AutoPot-DR) | Auto-potion tool for Dwarven Realms, built with a PyQt5 overlay. Reads memory using Pymem with pointer chain resolution.  |
 
 ---
