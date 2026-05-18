@@ -3,12 +3,12 @@
 
 Fullstack developer from Brazil and I'm really passionate about everything I do.
 
-I'm currently studying machine learning, C and developing my first public SaaS! And I just finished migrating my portfolio to Next.js + Mantine.
 
-If you're a recruiter, my favorite animal is orangutans because they're curious and learn by carefully observing their environment. 🦧
 
 Looking for job opportunities as an intern or junior developer, I'm sure I can surprise you with my dedication, don't be afraid to reach out!
 
+
+If you're a recruiter, my favorite animal is orangutans because they're curious and learn by carefully observing their environment. 🦧
 ### Get in touch
 
 <a href="https://www.linkedin.com/in/leonardobri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
