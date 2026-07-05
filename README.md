@@ -80,6 +80,7 @@ My profile pic is Snarf from Thundercats if you're wondering :)
 
 | Project | <div align="center">Description</div> |
 |---|---|
+| [Sopesa](https://sopesa-web.vercel.app/) | Precificação de demandas de desenvolvimento com IA. |
 | [JobAppliesTracker](https://github.com/leobrqz/JobAppliesTracker) | Track applications across platforms, manage companies, schedule interviews and more. See where your pipeline stands all in one place! |
 | [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run all your .sh scripts from one place. Scans project folders, detects envs, schedule runs and follow logs. Independent terminal per script.   |
 | [TrackLyrics-ytdlp](https://github.com/leobrqz/TrackLyrics-ytdlp) | Download tracks from YouTube with yt-dlp, scrape lyrics from letras.mus.br using bs4 and curl_cffi, organize and play in a PySide6 app. All local and automated.  |
