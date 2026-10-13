@@ -7,7 +7,7 @@
 
 I'm a Full Stack and AI Developer from Brazil who builds end-to-end applications, from product ideas to frontend and backend development, integrations, deployment and infrastructure.
 
-I work across frontend, backend and infrastructure, building web applications, AI applications, automations and internal services. My main stack includes React, TypeScript, Vite, Python, FastAPI, PostgreSQL, Redis, Docker, LangChain and OpenAI APIs.
+My main stack is TypeScript, React, Next.js, Python, FastAPI and PostgreSQL. I also work with LangChain and OpenAI APIs for AI integrations, and Docker for deployment.
 
 I'm always interested in learning, building useful things and connecting with people who enjoy technology. Feel free to reach out if you would like to connect, discuss a project or talk about opportunities.
 
@@ -52,7 +52,6 @@ My profile picture is Snarf from Thundercats, if you're wondering.
     <td valign="top"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />&nbsp;
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />&nbsp;
       <img src="https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy" />
     </td>
   </tr>
@@ -61,10 +60,11 @@ My profile picture is Snarf from Thundercats, if you're wondering.
     <td>
       <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain" />&nbsp;
       <img src="https://img.shields.io/badge/-OpenAI%20API-05122A?style=flat&logo=openai" />&nbsp;
+      <img src="https://img.shields.io/badge/-RAG-05122A?style=flat" />&nbsp;
       <img src="https://img.shields.io/badge/-Pinecone-05122A?style=flat&logo=pinecone" />&nbsp;
       <img src="https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface" />&nbsp;
       <img src="https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright" />&nbsp;
-      <img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn" />
+      <img src="https://img.shields.io/badge/-BeautifulSoup-05122A?style=flat" />
     </td>
   </tr>
   <tr>
@@ -75,7 +75,9 @@ My profile picture is Snarf from Thundercats, if you're wondering.
       <img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase" />&nbsp;
       <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" />&nbsp;
       <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" />&nbsp;
-      <img src="https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy" />
+      <img src="https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy" />&nbsp;
+      <img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn" />&nbsp;
+      <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat" />
     </td>
   </tr>
   <tr>
@@ -85,7 +87,6 @@ My profile picture is Snarf from Thundercats, if you're wondering.
       <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />&nbsp;
       <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />&nbsp;
       <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" />&nbsp;
-      <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins" />&nbsp;
       <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />
     </td>
   </tr>
@@ -94,6 +95,8 @@ My profile picture is Snarf from Thundercats, if you're wondering.
     <td>
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />&nbsp;
+      <img src="https://img.shields.io/badge/-Codex-05122A?style=flat&logo=openai" />&nbsp;
+      <img src="https://img.shields.io/badge/-Claude%20Code-05122A?style=flat&logo=claude" />&nbsp;
       <img src="https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor" />
     </td>
   </tr>
@@ -105,6 +108,7 @@ My profile picture is Snarf from Thundercats, if you're wondering.
 
 | Project | Description |
 |---|---|
+| [Open Remote Control](https://github.com/leobrqz/OpenRemoteControl) | Open-source Android remote for Windows: mouse, keyboard and media controls over the local network, with a browser-based server dashboard. |
 | [Sopesa](https://sopesa-web.vercel.app/) | AI-powered software development estimation. |
 | [JobAppliesTracker](https://github.com/leobrqz/JobAppliesTracker) | Track applications across platforms, manage companies, schedule interviews and keep your pipeline organized. |
 | [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run shell scripts from one place, scan project folders, detect environments, schedule runs and follow logs. |
