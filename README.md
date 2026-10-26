@@ -109,6 +109,7 @@ My profile picture is Snarf from Thundercats, if you're wondering.
 | Project | Description |
 |---|---|
 | [Open Remote Control](https://github.com/leobrqz/OpenRemoteControl) | Open-source Android remote for Windows: mouse, keyboard and media controls over the local network, with a browser-based server dashboard. |
+| [Lyrics, Please](https://github.com/leobrqz/LyricsExtension) | Open-source Firefox extension to find song lyrics, read Portuguese translations and save favorites. |
 | [Sopesa](https://sopesa-web.vercel.app/) | AI-powered software development estimation. |
 | [JobAppliesTracker](https://github.com/leobrqz/JobAppliesTracker) | Track applications across platforms, manage companies, schedule interviews and keep your pipeline organized. |
 | [ShScriptHub](https://github.com/leobrqz/ShScriptHub) | Run shell scripts from one place, scan project folders, detect environments, schedule runs and follow logs. |
